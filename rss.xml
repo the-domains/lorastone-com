@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[lorastone.com]]></title>
-        <description><![CDATA[lorastone.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Healer, Teacher]]></title>
+        <description><![CDATA[Healer, Teacher]]></description>
+        <link>https://thegrid.ai/lorastone-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 02:41:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 02:49:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lorastone-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Lora Stone is a Sai Shakti Healer and Teacher of the Ancient
 Indian Divine Knowledge. She lived and studied in Penukonda, South India, for
 over a decade under the direct guidance of Avatar/Saint Sri Kaleshwar (Jan 8,
-1973-Mar 15, 2012).Lora received
+1973-Mar 15, 2012). Lora received
 numerous initiations in the Shakti Energy Channels, including advanced yogas
 through the practice of mantra and yantra, and Mother Divine darshans. </p>]]></description>
-            <link>undefined113266c8-7088-47ae-b953-3f4fb0349091/index.html</link>
+            <link>https://thegrid.ai/lorastone-com/113266c8-7088-47ae-b953-3f4fb0349091/index.html</link>
             <guid isPermaLink="false">113266c8-7088-47ae-b953-3f4fb0349091</guid>
-            <pubDate>Fri, 04 Mar 2016 02:41:13 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 02:49:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
