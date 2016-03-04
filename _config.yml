@@ -1,0 +1,28 @@
+name: lorastone.com
+favicon: null
+layout_spectrum: 0.860115654533729
+typography_spectrum: 0.7513821572065353
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.08395866537466645
+  lightness: 0.2983404181431979
+  saturation: 0.5873843049630523
+  rhythmicContrast: 0.12856508302502334
+purpose: []
